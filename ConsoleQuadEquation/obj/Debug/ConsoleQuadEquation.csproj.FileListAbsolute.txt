@@ -1,0 +1,6 @@
+D:\ISM\ISMCSharp\ConsoleQuadEquation\bin\Debug\ConsoleQuadEquation.exe.config
+D:\ISM\ISMCSharp\ConsoleQuadEquation\bin\Debug\ConsoleQuadEquation.exe
+D:\ISM\ISMCSharp\ConsoleQuadEquation\bin\Debug\ConsoleQuadEquation.pdb
+D:\ISM\ISMCSharp\ConsoleQuadEquation\obj\Debug\ConsoleQuadEquation.exe
+D:\ISM\ISMCSharp\ConsoleQuadEquation\obj\Debug\ConsoleQuadEquation.pdb
+D:\ISM\ISMCSharp\ConsoleQuadEquation\obj\Debug\ConsoleQuadEquation.csprojResolveAssemblyReference.cache

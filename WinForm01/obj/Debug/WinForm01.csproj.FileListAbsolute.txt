@@ -1,0 +1,9 @@
+D:\ISM\ISMCSharp\WinForm01\bin\Debug\WinForm01.exe.config
+D:\ISM\ISMCSharp\WinForm01\bin\Debug\WinForm01.exe
+D:\ISM\ISMCSharp\WinForm01\bin\Debug\WinForm01.pdb
+D:\ISM\ISMCSharp\WinForm01\obj\Debug\WinForm01.Form1.resources
+D:\ISM\ISMCSharp\WinForm01\obj\Debug\WinForm01.Properties.Resources.resources
+D:\ISM\ISMCSharp\WinForm01\obj\Debug\WinForm01.csproj.GenerateResource.Cache
+D:\ISM\ISMCSharp\WinForm01\obj\Debug\WinForm01.exe
+D:\ISM\ISMCSharp\WinForm01\obj\Debug\WinForm01.pdb
+D:\ISM\ISMCSharp\WinForm01\obj\Debug\WinForm01.csprojResolveAssemblyReference.cache

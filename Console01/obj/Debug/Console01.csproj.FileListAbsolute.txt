@@ -1,0 +1,6 @@
+D:\ISM\ISMCSharp\Console01\bin\Debug\Console01.exe.config
+D:\ISM\ISMCSharp\Console01\bin\Debug\Console01.exe
+D:\ISM\ISMCSharp\Console01\bin\Debug\Console01.pdb
+D:\ISM\ISMCSharp\Console01\obj\Debug\Console01.csprojResolveAssemblyReference.cache
+D:\ISM\ISMCSharp\Console01\obj\Debug\Console01.exe
+D:\ISM\ISMCSharp\Console01\obj\Debug\Console01.pdb
