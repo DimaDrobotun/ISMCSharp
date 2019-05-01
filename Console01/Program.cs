@@ -47,7 +47,7 @@ namespace Console01
             while (!h);
 
             y = 2.4 * (Math.Abs(Math.Pow(x, 2) + b) / a) + (a - b) *Math.Pow(Math.Sin(1),2)* (a - b) + Math.Pow(10, -2) * (x - b);
-            Console.WriteLine(y);
+            Console.WriteLine(Math.Round(y,3));
         }
     }
 }

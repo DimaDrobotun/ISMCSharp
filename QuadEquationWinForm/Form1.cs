@@ -22,14 +22,16 @@ namespace QuadEquationWinForm
             double a = 0, b = 0, c = 0;
             if (double.TryParse(textBox1.Text, out a) && double.TryParse(textBox2.Text, out b) && double.TryParse(textBox3.Text, out c))
             {
-                double D = b * b - 4 * a * c;
+                double D = (b * b) - (4 * a * c);
                 textBox4.Text = D.ToString();
                 if(D>0)
                 {
-                    double x1 = (-b + Math.Sqrt(D)) / 2 * a;
-                    double x2 = (-b - Math.Sqrt(D)) / 2 * a;
+                    double x1 = (-b + Math.Sqrt(D)) / (2 * a); 
+                    double x2 = (-b - Math.Sqrt(D)) / (2 * a);
+                    label4.Visible = true;
                     label5.Visible = true;
                     label6.Visible = true;
+                    textBox4.Visible = true;
                     textBox5.Visible = true;
                     textBox6.Visible = true;
                     textBox5.Text = x1.ToString();
@@ -37,8 +39,10 @@ namespace QuadEquationWinForm
                 }
                 if(D==0)
                 {
-                    double x = (-b) / 2 * a;
+                    double x = (-b) / (2 * a);
+                    label4.Visible = true;
                     label5.Visible = true;
+                    textBox4.Visible = true;
                     textBox5.Visible = true;
                     textBox5.Text = x.ToString();
                     label6.Visible = false;
@@ -55,9 +59,9 @@ namespace QuadEquationWinForm
                     MessageBox.Show("Дискриминант не має розвязкив");
                 }
             }
-            else
+               else
             {
-                textBox4.Text = "Error";
+               MessageBox.Show ("Помилка введення даних!");
             }
         }
     }
