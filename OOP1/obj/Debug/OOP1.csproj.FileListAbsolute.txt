@@ -1,0 +1,8 @@
+D:\ISM\ISMCSharp\OOP1\bin\Debug\OOP1.exe.config
+D:\ISM\ISMCSharp\OOP1\obj\Debug\OOP1.csprojResolveAssemblyReference.cache
+D:\ISM\ISMCSharp\OOP1\bin\Debug\OOP1.exe
+D:\ISM\ISMCSharp\OOP1\bin\Debug\OOP1.pdb
+D:\ISM\ISMCSharp\OOP1\bin\Debug\OOPLib1.dll
+D:\ISM\ISMCSharp\OOP1\bin\Debug\OOPLib1.pdb
+D:\ISM\ISMCSharp\OOP1\obj\Debug\OOP1.exe
+D:\ISM\ISMCSharp\OOP1\obj\Debug\OOP1.pdb
